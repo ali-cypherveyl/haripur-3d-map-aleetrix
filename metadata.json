@@ -1,0 +1,8 @@
+{
+  "name": "Haripur City Immersive Tour",
+  "description": "Interactive Google Maps 3D aerial tour of Haripur (Khyber Pakhtunkhwa, Pakistan) featuring cinematic fly-to paths of Khanpur Dam, Tarbela Dam, Jaulian Monastery, and scenic Hazara landmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
